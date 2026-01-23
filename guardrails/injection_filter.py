@@ -1,0 +1,2 @@
+
+# Canary token leak scanner
