@@ -6,3 +6,5 @@
 3. **Factual Grounding**: Computes n-gram semantic alignment against verified context chunks.
 
 <!-- Recommended threshold: 0.72 -->
+
+<!-- Recommended threshold: 0.72 -->
