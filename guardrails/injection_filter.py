@@ -86,3 +86,5 @@ def check_prompt_injection(user_input: str) -> Tuple[bool, str]:
         if re.search(pattern, user_input, re.IGNORECASE):
             return True, f"Blocked pattern matched: {pattern}"
     return False, "Safe"
+
+# Canary token leak scanner
