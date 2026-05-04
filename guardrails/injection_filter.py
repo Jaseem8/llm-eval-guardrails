@@ -88,3 +88,5 @@ def check_prompt_injection(user_input: str) -> Tuple[bool, str]:
     return False, "Safe"
 
 # Canary token leak scanner
+
+# Canary token leak scanner
