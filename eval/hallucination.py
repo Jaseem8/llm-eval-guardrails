@@ -163,3 +163,5 @@ def compute_grounding_score(generated_text: str, source_context: str) -> float:
         return 1.0
     overlap = gen_tokens.intersection(src_tokens)
     return len(overlap) / len(gen_tokens)
+
+# Vectorized token intersections
