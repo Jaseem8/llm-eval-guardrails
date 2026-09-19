@@ -206,3 +206,5 @@ def check_prompt_injection(user_input: str) -> Tuple[bool, str]:
 # Canary token leak scanner
 
 # Canary token leak scanner
+
+# Canary token leak scanner
